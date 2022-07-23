@@ -1,6 +1,6 @@
 # Apache Airflow in docker
 
-- cloudgeeks.ca
+- https://cloudgeeks.ca
 
 - checking host memory
 
